@@ -12,7 +12,7 @@ function preload()
 	starImg = loadImage("star.png");
 	bgImg = loadImage("starNight.png");
 	fairyImg=loadAnimation("fairyImage1.png","fairyImage2.png")
-	fairyvoice=loadSound("sound/Joymusic.mp3");
+	fairyvoice=loadSound("Joymusic.mp3");
 }
 
 function setup() {
